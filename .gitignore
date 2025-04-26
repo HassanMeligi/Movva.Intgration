@@ -373,3 +373,11 @@ MigrationBackup/
 /Engine/Common/Movva.Data/obj/Debug/net9.0/Movva.Data.AssemblyInfo.cs
 /Engine/Management/Moova.Integration.Application/obj/Debug/net9.0/Moova.Integration.Application.AssemblyInfo.cs
 /Movva.Configuration/Properties/launchSettings.json
+/.vs/MoovAIntegration/CopilotIndices/17.12.53.23981/SemanticSymbols.db
+/Engine/Management/Moova.Integration.Application/obj/Moova.Integration.Application.csproj.nuget.dgspec.json
+/Engine/Management/Moova.Integration.Application/obj/project.nuget.cache
+/Engine/Management/Moova.Integration.Application/obj/project.assets.json
+/Engine/Management/Moova.Integration.Infrastructure/obj/Debug/net9.0/Moova.Integration.Infrastructure.assets.cache
+/Engine/Management/Moova.Integration.Infrastructure/obj/Moova.Integration.Infrastructure.csproj.nuget.dgspec.json
+/Engine/Management/Moova.Integration.Infrastructure/obj/project.assets.json
+/Engine/Management/Moova.Integration.Infrastructure/obj/project.nuget.cache
