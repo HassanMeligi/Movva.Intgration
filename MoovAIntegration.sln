@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{A6683D3B-72D7-4941-BD4E-34A095B6361D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases", "Databases", "{B7501796-E1A3-4437-B976-2EDA01E5BADF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Orchestration", "Orchestration", "{45BD266B-4399-4E9E-9A23-532CA4B5E44E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{E9DA24D4-1DBE-4390-8938-FF5C5375EBB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoovA.Integration.API", "MoovA.Integration.API\MoovA.Integration.API.csproj", "{3962E909-F764-42BF-8CD6-D8F4F85E5665}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MoovAIntegrationDB", "Databases\MoovAIntegrationDB\MoovAIntegrationDB.sqlproj", "{4C534867-9909-4248-AB9E-361FBE1E1BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moova.Integration.Application", "Engine\Management\Moova.Integration.Application\Moova.Integration.Application.csproj", "{14DE4116-7D4C-4ACC-B043-DD2F1EDCAC49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moova.Integration.Domain", "Engine\Management\Moova.Integration.Domain\Moova.Integration.Domain.csproj", "{CBC4D5CC-249B-41FC-AF96-FB8894A173BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moova.Integration.Infrastructure", "Engine\Management\Moova.Integration.Infrastructure\Moova.Integration.Infrastructure.csproj", "{43954800-AD41-4D7D-994B-2000F4703FAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{BC87FB24-4A33-45FB-AE4F-A485E297CDA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Management", "Management", "{9E97E502-77B1-46FC-8080-395D72EFBF3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movva.Data", "Engine\Common\Movva.Data\Movva.Data.csproj", "{1370B667-3C1B-4348-8CF0-409AF99747E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3962E909-F764-42BF-8CD6-D8F4F85E5665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3962E909-F764-42BF-8CD6-D8F4F85E5665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3962E909-F764-42BF-8CD6-D8F4F85E5665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3962E909-F764-42BF-8CD6-D8F4F85E5665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C534867-9909-4248-AB9E-361FBE1E1BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C534867-9909-4248-AB9E-361FBE1E1BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C534867-9909-4248-AB9E-361FBE1E1BFB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4C534867-9909-4248-AB9E-361FBE1E1BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C534867-9909-4248-AB9E-361FBE1E1BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C534867-9909-4248-AB9E-361FBE1E1BFB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{14DE4116-7D4C-4ACC-B043-DD2F1EDCAC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DE4116-7D4C-4ACC-B043-DD2F1EDCAC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DE4116-7D4C-4ACC-B043-DD2F1EDCAC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DE4116-7D4C-4ACC-B043-DD2F1EDCAC49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC4D5CC-249B-41FC-AF96-FB8894A173BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC4D5CC-249B-41FC-AF96-FB8894A173BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC4D5CC-249B-41FC-AF96-FB8894A173BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC4D5CC-249B-41FC-AF96-FB8894A173BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43954800-AD41-4D7D-994B-2000F4703FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43954800-AD41-4D7D-994B-2000F4703FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43954800-AD41-4D7D-994B-2000F4703FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43954800-AD41-4D7D-994B-2000F4703FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1370B667-3C1B-4348-8CF0-409AF99747E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1370B667-3C1B-4348-8CF0-409AF99747E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1370B667-3C1B-4348-8CF0-409AF99747E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1370B667-3C1B-4348-8CF0-409AF99747E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4C534867-9909-4248-AB9E-361FBE1E1BFB} = {B7501796-E1A3-4437-B976-2EDA01E5BADF}
+		{14DE4116-7D4C-4ACC-B043-DD2F1EDCAC49} = {9E97E502-77B1-46FC-8080-395D72EFBF3C}
+		{CBC4D5CC-249B-41FC-AF96-FB8894A173BC} = {9E97E502-77B1-46FC-8080-395D72EFBF3C}
+		{43954800-AD41-4D7D-994B-2000F4703FAC} = {9E97E502-77B1-46FC-8080-395D72EFBF3C}
+		{BC87FB24-4A33-45FB-AE4F-A485E297CDA6} = {A6683D3B-72D7-4941-BD4E-34A095B6361D}
+		{9E97E502-77B1-46FC-8080-395D72EFBF3C} = {A6683D3B-72D7-4941-BD4E-34A095B6361D}
+		{1370B667-3C1B-4348-8CF0-409AF99747E7} = {BC87FB24-4A33-45FB-AE4F-A485E297CDA6}
+	EndGlobalSection
+EndGlobal
