@@ -368,3 +368,8 @@ MigrationBackup/
 /Databases/MoovAIntegrationDB/MoovAIntegrationDB.jfm
 /MoovA.Integration.API/obj/Debug/net9.0/MoovA.Integration.API.AssemblyInfo.cs
 /.vs/MoovAIntegration/CopilotIndices/17.12.53.23981/SemanticSymbols.db-wal
+/.vs/MoovAIntegration/CopilotIndices/17.12.53.23981/CodeChunks.db
+/Engine/Management/Moova.Integration.Domain/obj/Debug/net9.0/Moova.Integration.Domain.AssemblyInfo.cs
+/Engine/Common/Movva.Data/obj/Debug/net9.0/Movva.Data.AssemblyInfo.cs
+/Engine/Management/Moova.Integration.Application/obj/Debug/net9.0/Moova.Integration.Application.AssemblyInfo.cs
+/Movva.Configuration/Properties/launchSettings.json
