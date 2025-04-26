@@ -364,3 +364,6 @@ MigrationBackup/
 /Engine/Management/Moova.Integration.Infrastructure/obj/Debug/net9.0/Moova.Integration.Infrastructure.AssemblyInfoInputs.cache
 /Engine/Management/Moova.Integration.Infrastructure/obj/Debug/net9.0/Moova.Integration.Infrastructure.AssemblyInfo.cs
 /Engine/Common/Movva.Data/obj/Debug/net9.0/Movva.Data.AssemblyInfoInputs.cache
+/Databases/MoovAIntegrationDB/MoovAIntegrationDB.dbmdl
+/Databases/MoovAIntegrationDB/MoovAIntegrationDB.jfm
+/MoovA.Integration.API/obj/Debug/net9.0/MoovA.Integration.API.AssemblyInfo.cs
