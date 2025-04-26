@@ -14,4 +14,8 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Engine\Management\Moova.Integration.Application\Moova.Integration.Application.csproj" />
+  </ItemGroup>
+
 </Project>
