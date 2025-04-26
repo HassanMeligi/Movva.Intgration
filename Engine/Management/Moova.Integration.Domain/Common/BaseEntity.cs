@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Movva.Data;
+namespace Moova.Integration.Domain.Common;
 
 public class BaseEntity
 {

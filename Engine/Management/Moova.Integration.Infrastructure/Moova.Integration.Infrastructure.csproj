@@ -9,9 +9,13 @@
   <ItemGroup>
     <Folder Include="Data\Configuration\" />
   </ItemGroup>
-	
-  <ItemGroup>
-    <ProjectReference Include="..\..\Common\Movva.Data\Movva.Data.csproj" />
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.4" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.4" />
+	</ItemGroup>
+	<ItemGroup>
+    <ProjectReference Include="..\Moova.Integration.Application\Moova.Integration.Application.csproj" />
+    <ProjectReference Include="..\Moova.Integration.Domain\Moova.Integration.Domain.csproj" />
   </ItemGroup>
 
 </Project>

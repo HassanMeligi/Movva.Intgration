@@ -1,4 +1,4 @@
-﻿namespace Movva.Data;
+﻿namespace Moova.Integration.Domain.Common;
 
 public abstract class BaseAuditableEntity : BaseEntity
 {

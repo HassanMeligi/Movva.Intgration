@@ -10,4 +10,8 @@
     <ProjectReference Include="..\Engine\Common\Movva.Data\Movva.Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DTO\" />
+  </ItemGroup>
+
 </Project>

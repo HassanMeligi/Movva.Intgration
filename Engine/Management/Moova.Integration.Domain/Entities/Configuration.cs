@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Moova.Integration.Domain.Common;
 
-namespace Moova.Integration.Domain.Entities
+namespace Moova.Integration.Domain.Entities;
+
+public class Configuration : BaseAuditableEntity, IAuditable
 {
-    public class Configuration : BaseAuditableEntity, IAuditable
-    {
-        public string ConfigurationKey { get; set; }
-        public string ConfigurationValue { get; set; }
-    }
+    public string ConfigurationKey { get; set; }
+    public string ConfigurationValue { get; set; }
 }
