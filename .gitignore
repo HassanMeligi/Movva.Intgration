@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MoovA.Integration.API/obj/Debug/net9.0/MoovA.Integration.API.AssemblyInfoInputs.cache
+/Engine/Management/Moova.Integration.Application/obj/Debug/net9.0/Moova.Integration.Application.AssemblyInfoInputs.cache
+/Engine/Management/Moova.Integration.Domain/obj/Debug/net9.0/Moova.Integration.Domain.AssemblyInfoInputs.cache
+/Engine/Management/Moova.Integration.Infrastructure/obj/Debug/net9.0/Moova.Integration.Infrastructure.AssemblyInfoInputs.cache
+/Engine/Management/Moova.Integration.Infrastructure/obj/Debug/net9.0/Moova.Integration.Infrastructure.AssemblyInfo.cs
