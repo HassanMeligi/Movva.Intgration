@@ -358,26 +358,5 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-/MoovA.Integration.API/obj/Debug/net9.0/MoovA.Integration.API.AssemblyInfoInputs.cache
-/Engine/Management/Moova.Integration.Application/obj/Debug/net9.0/Moova.Integration.Application.AssemblyInfoInputs.cache
-/Engine/Management/Moova.Integration.Domain/obj/Debug/net9.0/Moova.Integration.Domain.AssemblyInfoInputs.cache
-/Engine/Management/Moova.Integration.Infrastructure/obj/Debug/net9.0/Moova.Integration.Infrastructure.AssemblyInfoInputs.cache
-/Engine/Management/Moova.Integration.Infrastructure/obj/Debug/net9.0/Moova.Integration.Infrastructure.AssemblyInfo.cs
-/Engine/Common/Movva.Data/obj/Debug/net9.0/Movva.Data.AssemblyInfoInputs.cache
-/Databases/MoovAIntegrationDB/MoovAIntegrationDB.dbmdl
-/Databases/MoovAIntegrationDB/MoovAIntegrationDB.jfm
-/MoovA.Integration.API/obj/Debug/net9.0/MoovA.Integration.API.AssemblyInfo.cs
-/.vs/MoovAIntegration/CopilotIndices/17.12.53.23981/SemanticSymbols.db-wal
-/.vs/MoovAIntegration/CopilotIndices/17.12.53.23981/CodeChunks.db
-/Engine/Management/Moova.Integration.Domain/obj/Debug/net9.0/Moova.Integration.Domain.AssemblyInfo.cs
-/Engine/Common/Movva.Data/obj/Debug/net9.0/Movva.Data.AssemblyInfo.cs
-/Engine/Management/Moova.Integration.Application/obj/Debug/net9.0/Moova.Integration.Application.AssemblyInfo.cs
-/Movva.Configuration/Properties/launchSettings.json
-/.vs/MoovAIntegration/CopilotIndices/17.12.53.23981/SemanticSymbols.db
-/Engine/Management/Moova.Integration.Application/obj/Moova.Integration.Application.csproj.nuget.dgspec.json
-/Engine/Management/Moova.Integration.Application/obj/project.nuget.cache
-/Engine/Management/Moova.Integration.Application/obj/project.assets.json
-/Engine/Management/Moova.Integration.Infrastructure/obj/Debug/net9.0/Moova.Integration.Infrastructure.assets.cache
-/Engine/Management/Moova.Integration.Infrastructure/obj/Moova.Integration.Infrastructure.csproj.nuget.dgspec.json
-/Engine/Management/Moova.Integration.Infrastructure/obj/project.assets.json
-/Engine/Management/Moova.Integration.Infrastructure/obj/project.nuget.cache
+/obj
+/.vs
