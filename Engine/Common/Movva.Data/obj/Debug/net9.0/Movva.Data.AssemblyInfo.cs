@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Movva.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3768340a55ac37a6d4e6bb7e730aa3d4e545d330")]
 [assembly: System.Reflection.AssemblyProductAttribute("Movva.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Movva.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
