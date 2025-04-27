@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net9.0": {
-      "Microsoft.AspNetCore.OpenApi/9.0.1": {
+      "Microsoft.AspNetCore.OpenApi/9.0.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.OpenApi": "1.6.17"
@@ -37,10 +37,10 @@
     }
   },
   "libraries": {
-    "Microsoft.AspNetCore.OpenApi/9.0.1": {
-      "sha512": "xRJe8UrLnOGs6hOBrT/4r74q97626H0mABb/DV0smlReIx6uQCENAe+TUqF6hD3NtT4sB+qrvWhAej6kxPxgew==",
+    "Microsoft.AspNetCore.OpenApi/9.0.4": {
+      "sha512": "GfZWPbZz1aAtEO3wGCkpeyRc0gzr/+VRHnUgY/YjqVPDlHbeKWCXw3IxKarQdo9myC2O1QBf652Mo50QqbXYRg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.openapi/9.0.1",
+      "path": "microsoft.aspnetcore.openapi/9.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -49,7 +49,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll",
         "lib/net9.0/Microsoft.AspNetCore.OpenApi.xml",
-        "microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+        "microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
         "microsoft.aspnetcore.openapi.nuspec"
       ]
     },
@@ -71,7 +71,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Microsoft.AspNetCore.OpenApi >= 9.0.1"
+      "Microsoft.AspNetCore.OpenApi >= 9.0.4"
     ]
   },
   "packageFolders": {
@@ -81,9 +81,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\MoovA.Integration.API.csproj",
-      "projectName": "MoovA.Integration.API",
-      "projectPath": "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\MoovA.Integration.API.csproj",
+      "projectUniqueName": "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\Moova.Integration.API.csproj",
+      "projectName": "Moova.Integration.API",
+      "projectPath": "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\Moova.Integration.API.csproj",
       "packagesPath": "C:\\Users\\Hassa\\.nuget\\packages\\",
       "outputPath": "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\obj\\",
       "projectStyle": "PackageReference",
@@ -127,7 +127,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
-            "version": "[9.0.1, )"
+            "version": "[9.0.4, )"
           }
         },
         "imports": [

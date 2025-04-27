@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\MoovA.Integration.API.csproj": {}
+    "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\Moova.Integration.API.csproj": {}
   },
   "projects": {
-    "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\MoovA.Integration.API.csproj": {
+    "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\Moova.Integration.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\MoovA.Integration.API.csproj",
-        "projectName": "MoovA.Integration.API",
-        "projectPath": "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\MoovA.Integration.API.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\Moova.Integration.API.csproj",
+        "projectName": "Moova.Integration.API",
+        "projectPath": "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\Moova.Integration.API.csproj",
         "packagesPath": "C:\\Users\\Hassa\\.nuget\\packages\\",
         "outputPath": "C:\\WorkSpace\\Hassan\\Projects\\MoovAIntegration\\MoovA.Integration.API\\obj\\",
         "projectStyle": "PackageReference",
@@ -53,7 +53,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.1, )"
+              "version": "[9.0.4, )"
             }
           },
           "imports": [
